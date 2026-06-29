@@ -1,0 +1,24 @@
+canonical_identifier: bkk:krp/KR3ed015/jc/v1/juan/13
+seq: 13
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷外椒紅丸治婦人血氣不調臟腑怯弱風冷邪氣乘虛客搏臍腹冷疼脅肋時脹面色萎黃肌體羸瘦怠情嗜臥不思飲食常服補虛損暖下臟逐痼冷進飲食沉香莪朮訶子煨去核椒紅微炒出汗當歸微炒附子炮去尖臍皮白朮各一兩麝香一分別研丁香肉豆蔻炮良薑切麻油炒各半兩上細末入麝香勻酒煮麵糊丸如梧桐子大每服十丸溫酒吞下空心食前勝紅丸莪朮三稜陳皮去白青皮去白縮砂炒香附子忌鐵乾薑炮丁皮去粗皮厚朴薑製炒各等分上細末煮麩糊為丸如梧桐子大每服五十丸生薑紫蘇湯送下不拘時候
+  hash: sha256:5a8f63681334f3b4b1757162cbcbefab9f84a4e13cc7d5ab4771e2e1af252348
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ed015_jc_NaN-d14.h1s1}
+  - {type: 'tls:div-start', offset: 2, content: '', id: KR3ed015_jc_NaN-d14d2, level: 2, head_text: 椒紅丸}
+  - {type: 'tls:head', offset: 2, content: '', id: KR3ed015_jc_NaN-d14.d2.h1s1}
+  - {type: 'tls:div-end', offset: 143, content: '', id: KR3ed015_jc_NaN-d14d2}
+  - {type: 'tls:div-start', offset: 143, content: '', id: KR3ed015_jc_NaN-d14d3, level: 2, head_text: 勝紅丸}
+  - {type: 'tls:head', offset: 143, content: '', id: KR3ed015_jc_NaN-d14.d3.h1s1}
+  - {type: 'tls:div-end', offset: 211, content: '', id: KR3ed015_jc_NaN-d14d3}
+metadata:
+  title: 普濟本事方
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed015.xml
+hash: sha256:58029add196dd0123e7c3c69411a5e5aa2054e9d2a36ece7398b96f6ce07ce52

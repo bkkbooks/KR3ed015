@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3ed015/jc/v1/juan/10
+seq: 10
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷外治重舌方五靈脂一兩去砂石為末用米醋一大碗同煎遂旋漱之
+  hash: sha256:e4c9322ec5d22841d6b42889afe8a7f804d3e25fac602eec15aacda303f75c73
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ed015_jc_NaN-d11.h1s1}
+  - {type: 'tls:div-start', offset: 2, content: '', id: KR3ed015_jc_NaN-d11d2, level: 2, head_text: 治重舌方}
+  - {type: 'tls:head', offset: 2, content: '', id: KR3ed015_jc_NaN-d11.d2.h1s1}
+  - {type: 'tls:div-end', offset: 28, content: '', id: KR3ed015_jc_NaN-d11d2}
+metadata:
+  title: 普濟本事方
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed015.xml
+hash: sha256:eeebe3f714677c064011aaf60d8c2cb57430e21488b5f317102023938c6edaf1

@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR3ed015/jc/v1/markers/10
+seq: 10
+markers:
+  front: []
+  body:
+  - {type: xml-element, offset: 6, content: '', id: KR3ed015_jc_NaN-d11.d2p2, name: p, role: open, attrs: {'xml:id': KR3ed015_jc_NaN-d11.d2p2}}
+  - {type: 'tls:seg', offset: 6, content: '', id: KR3ed015_jc_NaN-d11.d2.p2s1}
+  - {type: punctuation, offset: 11, content: ，, id: KR3ed015_jc_010-bkkpn1}
+  - {type: 'tls:seg', offset: 11, content: '', id: KR3ed015_jc_NaN-d11.d2.p2s2}
+  - {type: punctuation, offset: 14, content: ，, id: KR3ed015_jc_010-bkkpn2}
+  - {type: 'tls:seg', offset: 14, content: '', id: KR3ed015_jc_NaN-d11.d2.p2s3}
+  - {type: punctuation, offset: 16, content: ，, id: KR3ed015_jc_010-bkkpn3}
+  - {type: 'tls:seg', offset: 16, content: '', id: KR3ed015_jc_NaN-d11.d2.p2s4}
+  - {type: punctuation, offset: 24, content: ，, id: KR3ed015_jc_010-bkkpn4}
+  - {type: 'tls:seg', offset: 24, content: '', id: KR3ed015_jc_NaN-d11.d2.p2s5}
+  - {type: punctuation, offset: 28, content: 。, id: KR3ed015_jc_010-bkkpn5}
+  - {type: xml-element, offset: 28, content: '', id: KR3ed015_jc_NaN-d11.d2p2_end, name: p, role: close, attrs: {'xml:id': KR3ed015_jc_NaN-d11.d2p2}}
+  back: []
+hash: sha256:052ea331433009755f57d28f2037487cc61058463429dae51f9b3ba6026ea691

@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3ed015/jc/v1/juan/3
+seq: 3
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷外灸中風口眼喎斜不正者家藏方上於耳垂下麥粒大灸三壯左引右灸右引左灸防風散治頭目不清神志不爽常服去風明目防風去蘆頭川芎香白芷甘菊花甘草炙上各等分為細末每服二錢荊芥湯調下食後烏香散治陽虛上攻頭項俱痛不可忍者細辛去葉土新茶芽炒草烏頭大者去皮尖炮裂切如麻豆大碎鹽炒各等分上件㕮咀每服二錢入麝香末半錢水一盞半煎至八分去滓溫服不拘時候海上方茶芽四兩細辛草烏各二兩或為細末每服一大錢茶清調下臨臥或食後
+  hash: sha256:09023f48bae34a8a55903a01681878315b9fb0f149be499b779ce612e39a2701
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ed015_jc_NaN-d4.h1s1}
+metadata:
+  title: 普濟本事方
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed015.xml
+hash: sha256:d727cac854972e9cd09e98deabe8c726bac003183839cf75b9743290c22f86b1

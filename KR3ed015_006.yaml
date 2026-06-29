@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3ed015/jc/v1/juan/6
+seq: 6
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷外順氣木香散治氣不升降嘔逆噁心胸膈痞滿脅肋脹悶及酒食所傷噫氣吞酸心脾刺痛大便不調面黃肌瘦不思飲食兼療婦人血氣刺痛及一切冷氣繞臍撮痛良薑去蘆炒乾薑炮茴香炒陳皮去白縮砂肉桂去粗皮不見火丁皮不見火桔梗去蘆炒厚朴去粗皮薑製蒼朮米泔浸甘草炙各等分去乾薑丁皮厚朴加香附子青皮曰和氣散上細末每服二錢水一盞生薑三片棗二枚同煎八分稍熱服不拘時候或入鹽少許沸湯點服常服寬中和胃
+  hash: sha256:ea5b25a4f9f8697ccac1490d2b409f1f5c5a6453ee8e78fcdb0d375f8db79b8f
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ed015_jc_NaN-d7.h1s1}
+metadata:
+  title: 普濟本事方
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed015.xml
+hash: sha256:3aee9e54b4ee3f8521a1466a86acbe89f844a83e1d68557147a388d59b0a1956
