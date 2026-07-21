@@ -17,7 +17,7 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 1, filename: KR3ed015_001-jc.yaml, hash: 'sha256:e694aaa66ccc2a7c32c91b95786f38e49bb7f853dbe5945a9a79a90404dca1fa'}
+  - {seq: 1, filename: KR3ed015_001-jc.yaml, hash: 'sha256:67d347a5bc35d1c894b8377adb2d3d734eb9690c6b7034745f6f1f98611ef361'}
   - {seq: 2, filename: KR3ed015_002-jc.yaml, hash: 'sha256:4784157e2ffbd3d200dc777839593904f9c5501c4ee820aee5ca9955a6d6e4c6'}
   - {seq: 3, filename: KR3ed015_003-jc.yaml, hash: 'sha256:d727cac854972e9cd09e98deabe8c726bac003183839cf75b9743290c22f86b1'}
   - {seq: 4, filename: KR3ed015_004-jc.yaml, hash: 'sha256:865ccb2143038907ff94fd5073f1ddeaee630fe9d18042774de41eac05d56e3c'}
@@ -35,7 +35,7 @@ assets:
   - {seq: 16, filename: KR3ed015_016-jc.yaml, hash: 'sha256:648fa11f8586856b5502f79b55ae2cfdfded676d92e7183b0b7580f627c3985a'}
   - {seq: 17, filename: KR3ed015_017-jc.yaml, hash: 'sha256:f20a9c53e6d4b55040ded750108bcf0dac93ea1fdaa90bbd4cd03e7c6260b428'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3ed015_001-jc.markers.yaml, hash: 'sha256:2638021375c4b82df393390a88d170f18fce559ca4e56b41a7a1907247ca8948'}
+  - {seq: 1, role: markers, filename: assets/KR3ed015_001-jc.markers.yaml, hash: 'sha256:73f217891981e8e2dc3a94f075244a3ec94bb989b63244bed6d3240f1591f2f0'}
   - {seq: 2, role: markers, filename: assets/KR3ed015_002-jc.markers.yaml, hash: 'sha256:8360d44bab4a7159654d841616adba9a0861f883e0a14b4604f527de35f4124c'}
   - {seq: 3, role: markers, filename: assets/KR3ed015_003-jc.markers.yaml, hash: 'sha256:49624569eee0663bae320ab4532ae7407b126ce3fdc0685ad62450ea1d34cb61'}
   - {seq: 4, role: markers, filename: assets/KR3ed015_004-jc.markers.yaml, hash: 'sha256:2cce6cd35c3b856ba5c7449e3add5402eb4778b2c99d49bc2499740922cb0554'}
@@ -57,7 +57,7 @@ table_of_contents:
     seq: 1
     marker_id: KR3ed015_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 365
   label: 普濟本事方序
@@ -3733,4 +3733,4 @@ table_of_contents:
   label: 普濟本事方治藥制度惣例
   type: section
   level: 1
-hash: sha256:d71c92a9b4daa47dc8dbea32b9c92abd2dc37a900cff8bcf7f0b140e4ad8a7b1
+hash: sha256:0e20c9e80f46b8e47ccda0f33bfd822b44cc4afa47db4f67b6d661691320753f

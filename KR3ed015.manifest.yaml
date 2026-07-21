@@ -17,7 +17,7 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3ed015_001.yaml, hash: 'sha256:1828848d3bcdd6ba5422db2e187a9bafa0a0d3302e40c2928eb533a2502b448d'}
+  - {seq: 1, filename: KR3ed015_001.yaml, hash: 'sha256:02419271277273a9836b61b95bcd5ef0353004f3291903331cc1172339e4fbf6'}
   - {seq: 2, filename: KR3ed015_002.yaml, hash: 'sha256:ffdc840a8ef29692f80105d95af77d42e5c12dfbf6da1bbaa8f185336922a5d1'}
   - {seq: 3, filename: KR3ed015_003.yaml, hash: 'sha256:d727cac854972e9cd09e98deabe8c726bac003183839cf75b9743290c22f86b1'}
   - {seq: 4, filename: KR3ed015_004.yaml, hash: 'sha256:b1c3c553872934a12356a1f63b9c8db4d718cd57991021becdb1d796e2ebbf4a'}
@@ -35,7 +35,7 @@ assets:
   - {seq: 16, filename: KR3ed015_016.yaml, hash: 'sha256:7f418e0034d909a44358fff08e4414bda424c623badeedd41c2606255b45eaf1'}
   - {seq: 17, filename: KR3ed015_017.yaml, hash: 'sha256:ebd46ad2bf71876bf3535bf0585fd06105a40c8ab5cad063a249ffa4ed1b4c20'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3ed015_001.markers.yaml, hash: 'sha256:e117b903e4b3522dac09f8cbe4ca27497e9672e9dce9e31c3bb92d9b99a0007a'}
+  - {seq: 1, role: markers, filename: assets/KR3ed015_001.markers.yaml, hash: 'sha256:2b919d70a5f1b27657f051884014eb12fb68820d671ed8ca9319849f6f7c662e'}
   - {seq: 2, role: markers, filename: assets/KR3ed015_002.markers.yaml, hash: 'sha256:a051a4ecc3f3537d0afefce9b46650a716e1d2b522d1424bc0a6276c7cb435d9'}
   - {seq: 3, role: markers, filename: assets/KR3ed015_003.markers.yaml, hash: 'sha256:28f3932fe18c50a1a9a8f24b139a105e400b87ad0edc1eb5e219cdd63f76f087'}
   - {seq: 4, role: markers, filename: assets/KR3ed015_004.markers.yaml, hash: 'sha256:8dae8e41db2d65b6511ee5e453b35317136743a67f3607084fa5617feb9dbfde'}
@@ -57,7 +57,7 @@ table_of_contents:
     seq: 1
     marker_id: KR3ed015_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 365
   label: 普濟本事方序
@@ -3733,7 +3733,7 @@ table_of_contents:
   label: 普濟本事方治藥制度惣例
   type: section
   level: 1
-hash: sha256:655008551fd95885d468d98f979c76c86c4916776490027b4a07fe4917b77a44
+hash: sha256:1e8c05a1fa26779c092f2a3fc8f26d74d91dad2f5c42a62a12a89cf64692a75c
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

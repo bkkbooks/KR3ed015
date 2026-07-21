@@ -1,7 +1,7 @@
 canonical_identifier: bkk:krp/KR3ed015/bkk/v1/markers/1
 seq: 1
 markers:
-  front:
+  body:
   - {type: xml-element, offset: 6, content: '', id: KR3ed015_jc_000-d2p2, name: p, role: open, attrs: {'xml:id': KR3ed015_jc_000-d2p2}}
   - {type: 'tls:seg', offset: 6, content: '', id: KR3ed015_jc_000-d2.p2s1}
   - {type: punctuation, offset: 11, content: 。, id: KR3ed015_jc_001-bkkpn1}
@@ -151,6 +151,5 @@ markers:
   - {type: substitution, offset: 362, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19653}}
   - {type: punctuation, offset: 365, content: 。, id: KR3ed015_jc_001-bkkpn69}
   - {type: xml-element, offset: 365, content: '', id: KR3ed015_jc_000-d2p2_end, name: p, role: close, attrs: {'xml:id': KR3ed015_jc_000-d2p2}}
-  body: []
   back: []
-hash: sha256:e117b903e4b3522dac09f8cbe4ca27497e9672e9dce9e31c3bb92d9b99a0007a
+hash: sha256:2b919d70a5f1b27657f051884014eb12fb68820d671ed8ca9319849f6f7c662e
